@@ -1,32 +1,13 @@
-# CATS-Lab-Template-Repository
+# CATS-UWMadison-AV-Data
 
 ## Introduction
 
-Provide an overview of the repository's purpose and the necessary background information that users might need to understand it.
+This is an AV trajectory data set collected by the CATS lab at UW-Madison.
 
-## Installation
 
-Detail the required environment and dependencies needed to run the code, access the dataset, or utilize the notes.
+## Contact
 
-## Usage
-
-Explain how users can start using the repository. Include the framework of your code and provide a step-by-step guide if necessary to facilitate easy onboarding for new users.
-
-### Sub-section 1 (optional)
-
-Add sub-section if necessary.
-
-### Sub-section 2 (optional)
-
-Add sub-section if necessary.
-
-## Developers
-
-List the names and email addresses of the main developers and reviewers. 
-
-## Contributing (optional)
-
-Describe how to contribute to this repository.
+Ke Ma (kma62@wisc.edu), Zhaohui Liang (zhaohui.liang@wisc.edu)
 
 ## License (optional)
 
